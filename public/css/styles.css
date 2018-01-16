@@ -22,19 +22,12 @@
   font-size: 50px;
 }
 
-#logo-img {
-  margin-left: 30vw;
-}
-
 #thought-text-holder {
   padding-left: 20px;
-  margin-left: 15px;
   margin-top: 3.5vh;
 }
 
-#thought-holder {
-  margin-left: 40vw;
-}
+
 
 #thought-text {
   font-size: 22px;
@@ -55,12 +48,10 @@
 #by-person-text {
   font-family: CircularFontMedium;
   font-size: 20px;
-  margin-left: 49vw;
 }
 
 #profile-pic {
-  margin-top: 30px;
-  height: 50%;
+  padding-top: 5px;
+  margin-top: 10px;
   border-radius: 50%;
-  margin-left: 47vw;
 }

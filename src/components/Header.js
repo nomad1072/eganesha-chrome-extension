@@ -5,7 +5,7 @@ const Header = (props) => {
   return (
     <Container>
       <Row>
-        <Col>
+        <Col className="text-center">
           <img id="logo-img" src="/assets/images/eganesha-logo.jpg" />
         </Col>
       </Row>
